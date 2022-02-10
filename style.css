@@ -1,0 +1,23 @@
+ .new,.new1{
+   height: 3rem;
+   width:5rem;
+        
+    }
+.i1,.i2,.i3,.i4{
+    height: 2rem;
+    width:4rem;
+
+
+
+}
+
+.next{
+    justify-content: flex-end;
+    display: flex;
+    margin-top: 0rem;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+}
+  
